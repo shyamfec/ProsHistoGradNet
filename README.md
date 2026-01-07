@@ -1,0 +1,3 @@
+# ProsHistoGradNet
+ProsHistoGradNet: A Deep CNN Network for Prediction of Prostate Cancer Grade from Histopathological Data
+Python code coming soon...................
